@@ -1,3 +1,4 @@
 # firstdemo
 first program on git
-auhtor devesh chaudhary
+<br>
+author devesh chaudhary
